@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=
+comment1.target=int\ getId()
+comment1.text=GET\ Method\ Propertie\ id
+comment2.params=id
+comment2.target=void\ setId(int)
+comment2.text=SET\ Method\ Propertie\ id
+comment3.params=
+comment3.target=java.lang.String\ getNomeDoProduto()
+comment3.text=GET\ Method\ Propertie\ nomeDoProduto
+comment4.params=nomeDoProduto
+comment4.target=void\ setNomeDoProduto(java.lang.String)
+comment4.text=SET\ Method\ Propertie\ nomeDoProduto
+comment5.params=
+comment5.target=double\ getPreco()
+comment5.text=GET\ Method\ Propertie\ preco
+comment6.params=preco
+comment6.target=void\ setPreco(double)
+comment6.text=SET\ Method\ Propertie\ preco
+comment7.params=
+comment7.target=java.lang.String\ getMarca()
+comment7.text=GET\ Method\ Propertie\ marca
+comment8.params=marca
+comment8.target=void\ setMarca(java.lang.String)
+comment8.text=SET\ Method\ Propertie\ marca
+numComments=9
